@@ -23,4 +23,4 @@ _HTML_
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_{Mathew Akre, Adrian Rivera}_**
+Copyright (c) 2016 **_Mathew Akre, Adrian Rivera_**
